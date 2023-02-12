@@ -1,0 +1,7 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "actix/Cargo.toml",
+    "rocket/Cargo.toml",
+    "tcp/Cargo.toml"
+  ]
+}
